@@ -1,4 +1,3 @@
-import { language_list } from "../data/Language_List";
 import {
   all_project_list,
   buy_list,
@@ -8,10 +7,8 @@ import {
   service_list,
   work_list,
 } from "../data/Nav_List";
-import { useContext, useState } from "react";
+import { useState } from "react";
 import Sider from "./Sider";
-import currencies_list from "../data/Currency_List";
-import RenderCurrencyList from "../Component/RenderCurrencyList";
 import RenderMenu from "../Component/RenderMenu";
 import RenderCurrencyButton from "../Component/RenderCurrencyButton";
 import RenderLanguageButton from "../Component/RenderLanguageButton";
