@@ -1,4 +1,3 @@
-import Slider_Flex from "../Component/Content/Card_Flex";
 import RenderTitle from "../Component/Content/RenderTitle";
 import { project } from "../data/Content/Project";
 import Card_Text_Session from "../Component/Content/Card_Text_Session";
