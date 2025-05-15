@@ -14,7 +14,7 @@ function Banner() {
       <div className="relative w-[100%] bg-cover bg-center bg-[url(https://cdn.fazwaz.com/nw/1fxL_7zqJt29k3DlA1bmfnKYpO4/3800x960/site-config/96/home-slide-compress.jpeg)] h-[492px] rounded-lg">
         <div className="absolute w-full max-w-[758px] flex flex-col items-center top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
           <div className="text-white w-[100%] text-center mb-[35px]"> {/*text*/ }
-            <h1 className="text-[36px] font-bold text-wrap">
+            <h1 className="text-[36px] font-bold text-wrap px-5">
               ซื้อ ขาย ให้เช่า บ้านและคอนโด
             </h1>
             <h3 className="text-[18px] font-bold px-5
